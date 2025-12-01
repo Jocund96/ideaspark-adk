@@ -1,0 +1,2 @@
+agent-development-kit
+google-cloud-aiplatform
